@@ -1,4 +1,4 @@
-# Hackintosh-V50s-Lenovo
+# Hackintosh-V50s-Lenovo (i3 10100 / 12gb ddr4 / ssd 240gb)
 
 <img src="img.png">
 
