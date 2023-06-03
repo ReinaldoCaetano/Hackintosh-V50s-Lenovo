@@ -1,6 +1,6 @@
 # Hackintosh-V50s-Lenovo
 
-<img src="img">
+<img src="img.png">
 
 Atualize **config.plist** in PlatformInfo > Generic com suas informações, use genSMBIOs para gerar os dados e nao use qualquer editor de config.plist sem ser propertree ou vai quebrar o código.
 <br><br>
